@@ -14,8 +14,11 @@ Here’s a breakdown of the folder structure and its purpose:
 
 │
 ├── components/
+
 │ ├── designs/
+
 │ │ └── Card.tsx # Page-specific UI components like product cards, banners, etc.
+
 │ │
 │ └── layouts/
 │ └── Header.tsx # Common layout components that wrap entire pages (headers, sidebars, footers).
