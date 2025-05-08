@@ -9,8 +9,7 @@ A clean, organized, and scalable starter codebase for building modern React appl
 Here’s a breakdown of the folder structure and its purpose:
 
    ```bash
-   ├── assets/
-   
+   ├── assets/  
    │ └── # Store images, logos, icons, fonts, or videos used across the app.
    
    │
@@ -84,7 +83,7 @@ Here’s a breakdown of the folder structure and its purpose:
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/DiagnoWorks/your-repo-name.git
    cd your-repo-name
 
    
