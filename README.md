@@ -64,7 +64,7 @@ Here’s a breakdown of the folder structure and its purpose:
    ├── tsconfig.json
    
    └── tailwind.config.ts
-
+```
 ---
 
 ## 📦 Tech Stack
