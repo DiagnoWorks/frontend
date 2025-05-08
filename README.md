@@ -55,9 +55,13 @@ Here’s a breakdown of the folder structure and its purpose:
 
 │
 ├── index.html
+
 ├── vite.config.ts
+
 ├── package.json
+
 ├── tsconfig.json
+
 └── tailwind.config.ts
 
 ---
