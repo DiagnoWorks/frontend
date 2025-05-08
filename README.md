@@ -62,15 +62,14 @@ Here’s a breakdown of the folder structure and its purpose:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-
-
+   
 2. **Install dependencies**
-  ```bash
-  npm install
-
+   ```bash
+   npm install
+   
 3. **Run the development server**
-  ```bash
-  npm run dev
+   ```bash
+   npm run dev
 
 4. **Start building your app**
 Add components inside components/, pages in pages/, types in types/, hooks in hooks/, etc.
