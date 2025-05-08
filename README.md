@@ -62,17 +62,21 @@ Here’s a breakdown of the folder structure and its purpose:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+
    
 2. **Install dependencies**
    ```bash
    npm install
+
    
 3. **Run the development server**
    ```bash
    npm run dev
 
+
 4. **Start building your app**
 Add components inside components/, pages in pages/, types in types/, hooks in hooks/, etc.
+
 
 
 # 📌 Highlights :-
@@ -89,6 +93,7 @@ Add components inside components/, pages in pages/, types in types/, hooks in ho
 * Responsive Tailwind-powered UI out of the box
 
 
+
 # 📖 Folder Purpose in Detail :-
 
 | Folder        | Description                                                                                                   |
@@ -102,13 +107,17 @@ Add components inside components/, pages in pages/, types in types/, hooks in ho
 | `types/`      | TypeScript type and interface declarations for consistent typing.                                             |
 
 
+
 ✨ **Why This Starter?**
+
 ✅ Clean folder structure
+
 ✅ Scalable codebase
 ✅ Faster development workflow
 ✅ Type-safe, readable code
 ✅ Easy API integration
 ✅ Tailwind-powered modern UI
+
 
 
 📚 **Future Improvements (Optional Ideas) :-**
@@ -121,6 +130,7 @@ Add components inside components/, pages in pages/, types in types/, hooks in ho
 * Setup absolute import paths with tsconfig.paths.json
 
 * Add light/dark mode toggle
+
 
 
 📌 **License :-**
