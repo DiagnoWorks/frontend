@@ -108,19 +108,23 @@ Add components inside components/, pages in pages/, types in types/, hooks in ho
 
 
 
-✨ **Why This Starter?**
+# ✨ Why This Starter?
 
 ✅ Clean folder structure
 
 ✅ Scalable codebase
+
 ✅ Faster development workflow
+
 ✅ Type-safe, readable code
+
 ✅ Easy API integration
+
 ✅ Tailwind-powered modern UI
 
 
 
-📚 **Future Improvements (Optional Ideas) :-**
+# 📚 Future Improvements (Optional Ideas) :-
 * Add Eslint + Prettier config
 
 * Integrate Zustand / Redux Toolkit out of the box
@@ -133,7 +137,7 @@ Add components inside components/, pages in pages/, types in types/, hooks in ho
 
 
 
-📌 **License :-**
+# 📌 License :-
 Feel free to use this template for your personal, client, or open-source projects ✌️
 
 
