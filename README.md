@@ -8,6 +8,8 @@ A clean, organized, and scalable starter codebase for building modern React appl
 
 Here’s a breakdown of the folder structure and its purpose:
 
+   ```bash
+   
 ├── assets/
 
 │ └── # Store images, logos, icons, fonts, or videos used across the app.
