@@ -62,7 +62,7 @@ Here’s a breakdown of the folder structure and its purpose:
 1. **Clone this repo**
    ```bash
    git clone https://github.com/DiagnoWorks/frontend.git
-   cd your-repo-name
+   cd frontend
 
    
 2. **Install dependencies**
