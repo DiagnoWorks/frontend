@@ -21,24 +21,38 @@ Here’s a breakdown of the folder structure and its purpose:
 
 │ │
 │ └── layouts/
+
 │ └── Header.tsx # Common layout components that wrap entire pages (headers, sidebars, footers).
+
 │
 ├── hooks/
+
 │ └── # Custom React hooks for reusable logic (e.g., useToggle, useFetch, useDebounce).
+
 │
 ├── lib/
+
 │ ├── axios.ts # Pre-configured Axios instance for API requests (with baseURL and credentials).
+
 │ ├── dummy.ts # Dummy/mock data for development and UI showcasing.
+
 │ └── utils.ts # Utility functions like formatters, helpers, or API clients.
+
 │
 ├── pages/
+
 │ └── # Top-level React page components linked via React Router.
+
 │
 ├── store/
+
 │ └── # Global state management setups (e.g., Zustand, Redux).
+
 │
 ├── types/
+
 │ └── # TypeScript type and interface declarations shared across the app.
+
 │
 ├── index.html
 ├── vite.config.ts
